@@ -1,0 +1,86 @@
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/1.exe
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/1.deps.json
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/1.runtimeconfig.json
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/ref/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/bin/Debug/net6.0/1.pdb
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/ref/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.pdb
+C:/Users/elena/OneDrive/Рабочий стол/коды/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/1.exe
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/1.deps.json
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/1.runtimeconfig.json
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/ref/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/bin/Debug/net6.0/1.pdb
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/ref/1.dll
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.pdb
+C:/Users/elena/OneDrive/Рабочий стол/МаКсИм/коды/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/bin/Debug/net6.0/1.exe
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/bin/Debug/net6.0/1.deps.json
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/bin/Debug/net6.0/1.runtimeconfig.json
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/bin/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/bin/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/refint/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1/obj/Debug/net6.0/ref/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/bin/Debug/net6.0/1.exe
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/bin/Debug/net6.0/1.deps.json
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/bin/Debug/net6.0/1.runtimeconfig.json
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/bin/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/bin/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfo.cs
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/refint/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/1.genruntimeconfig.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/Maksim/коды (1)/1_hodilki_brodilki/obj/Debug/net6.0/ref/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.exe
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.deps.json
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.runtimeconfig.json
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfo.cs
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/refint/1.dll
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.pdb
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.genruntimeconfig.cache
+C:/Users/Maksim/OneDrive/Рабочий стол/коды/1_hodilki_brodilki/obj/Debug/net6.0/ref/1.dll
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/bin/Debug/net6.0/1
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.deps.json
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.runtimeconfig.json
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.dll
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/bin/Debug/net6.0/1.pdb
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.AssemblyInfo.cs
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.dll
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/refint/1.dll
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.pdb
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/1.genruntimeconfig.cache
+/home/vostox/C-sharp-test-linux/коды/1_hodilki_brodilki/obj/Debug/net6.0/ref/1.dll
